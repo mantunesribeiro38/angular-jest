@@ -32,8 +32,6 @@ E se você tiver alguma dúvida sobre o projeto...
 
 Email: mantunesribeiro38@gmail.com
 
-Meu Linkedin
-
 Obrigado! ✌️
 
 ## License
