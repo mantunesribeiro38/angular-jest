@@ -34,5 +34,5 @@ Email: mantunesribeiro38@gmail.com
 
 Obrigado! ✌️
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
