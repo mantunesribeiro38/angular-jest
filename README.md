@@ -25,13 +25,6 @@ npm run test:ci
 npm run test:watch
 ```
 
-## Contribuição
-Para contribuir basta criar uma issue para discurtimos o que você gostaria de mudar.
-
-E se você tiver alguma dúvida sobre o projeto...
-
-Email: mantunesribeiro38@gmail.com
-
 Obrigado! ✌️
 
 ## Licença
